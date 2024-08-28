@@ -29,7 +29,7 @@ github:
   username: randyriemann # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Randy_Riemann # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,6 +38,7 @@ social:
   email: zhouzhipeng113@mails.ucas.ac.cn # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://x.com/Randy_Riemann
     - https://scholar.google.com/citations?user=Ot0PPAcAAAAJ&hl=zh-CN
     - https://github.com/randyriemann # change to your GitHub homepage
     - https://twitter.com/username # change to your Twitter homepage
